@@ -1,13 +1,6 @@
-import sectionHTML from "./parhials/common.html"
+import sectionHTML from "./parhials/common.html";
+import "./style.css";
 
+import createElementHtml from "./parhials/parhial.js";
+createElementHtml("common", sectionHTML);
 
-document.getElementById("common").innerHTML = sectionHTML;
-class Game {
-  name = "Violin Charades";
-}
-const myGame = new Game();
-const p = document.createElement("p");
-p.textContent = `I like ${myGame.name}.`;
-
-const app = document.querySelector("#root");
-app.append(p);
