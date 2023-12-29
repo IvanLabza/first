@@ -14,7 +14,7 @@ module.exports = (env, argv) => {
     output: {
       path: path.resolve(__dirname, "./dist"),
       filename: "[name].bundle.js",
-      publicPath: "/<название-репозитория>/", // Например, /first/ - замените на ваше название репозитория
+      publicPath: "/first/", // Например, /first/ - замените на ваше название репозитория
     },
     devServer: {
       historyApiFallback: true,
