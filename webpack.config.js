@@ -23,8 +23,10 @@ module.exports = (env, argv) => {
         directory: path.resolve(__dirname, "dist"),
         serveIndex: true,
         staticOptions: {
-          setHeaders: {
-            "Content-Type": "text/css",
+          setHeaders: (res, filePath) => {
+            if (filePath.endsWith(".css")) {
+              res.setHeader("Content-Type", "text/css");
+            }
           },
         },
       },

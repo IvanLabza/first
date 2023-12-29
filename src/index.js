@@ -1,5 +1,7 @@
+import sectionHTML from "./parhials/common.html"
 
 
+document.getElementById("common").innerHTML = sectionHTML;
 class Game {
   name = "Violin Charades";
 }
