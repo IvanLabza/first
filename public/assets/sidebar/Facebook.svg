@@ -1,0 +1,17 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_6956">
+			<rect id="Icons-facebook" width="14.000000" height="14.000000" transform="translate(5.000000 5.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 9" cx="12.000000" cy="12.000000" r="12.000000" fill="#FFB400" fill-opacity="1.000000"/>
+	<rect id="Icons-facebook" width="14.000000" height="14.000000" transform="translate(5.000000 5.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons-facebook" width="14.000000" height="14.000000" transform="translate(5.000000 5.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons-facebook" width="14.000000" height="14.000000" transform="translate(5.000000 5.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_6956)">
+		<path id="Vector" d="M13.167 12.875L14.625 12.875L15.2085 10.5415L13.167 10.5415L13.167 9.375C13.167 8.77393 13.167 8.20801 14.3335 8.20801L15.2085 8.20801L15.2085 6.24805C15.0186 6.22314 14.3003 6.1665 13.542 6.1665C11.958 6.1665 10.8335 7.1333 10.8335 8.9082L10.8335 10.5415L9.0835 10.5415L9.0835 12.875L10.8335 12.875L10.8335 17.833L13.167 17.833L13.167 12.875Z" fill="#2B2B2B" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

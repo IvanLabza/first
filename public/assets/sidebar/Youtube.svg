@@ -1,0 +1,17 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_6916">
+			<rect id="Icons-Youtube" width="14.000000" height="14.000000" transform="translate(5.000000 5.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 9" cx="12.000000" cy="12.000000" r="12.000000" fill="#FFB400" fill-opacity="1.000000"/>
+	<rect id="Icons-Youtube" width="14.000000" height="14.000000" transform="translate(5.000000 5.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons-Youtube" width="14.000000" height="14.000000" transform="translate(5.000000 5.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons-Youtube" width="14.000000" height="14.000000" transform="translate(5.000000 5.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_6916)">
+		<path id="Vector" d="M17.5664 8.79053C17.833 9.83008 17.833 12 17.833 12C17.833 12 17.833 14.1699 17.5664 15.2095C17.4185 15.7842 16.9849 16.2363 16.436 16.3892C15.439 16.667 12 16.667 12 16.667C12 16.667 8.56201 16.667 7.56348 16.3892C7.01221 16.2339 6.57959 15.7827 6.43311 15.2095C6.1665 14.1699 6.1665 12 6.1665 12C6.1665 12 6.1665 9.83008 6.43311 8.79053C6.58105 8.21631 7.01465 7.76416 7.56348 7.61133C8.56201 7.3335 12 7.3335 12 7.3335C12 7.3335 15.439 7.3335 16.436 7.61133C16.9873 7.76611 17.4204 8.21777 17.5664 8.79053ZM10.833 14.042L14.333 12L10.833 9.9585L10.833 14.042Z" fill="#2B2B2B" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
